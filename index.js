@@ -17,9 +17,9 @@ client.aliases = new Discord.Collection();
 client.db = require("quick.db");
 
 client.on("ready", async () => {
-  console.log(`Yo boii!! Moderation.V2 has been deployed!! 🚀 Coded by 365 ɢᴀᴍɪɴɢ ɴ ᴍᴏʀᴇ_2.0#0002`);
+  console.log(`Yo boii!! Moderation.V2 has been deployed!! 🚀 Coded by Python✌#5013`);
   client.user
-    .setActivity(`Discord Tricks`, { type: "LISTENING" })
+    .setActivity(`Python Creations`, { type: "LISTENING" })
     .catch(error => console.log(error));
 });
 
